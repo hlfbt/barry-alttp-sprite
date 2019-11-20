@@ -20,5 +20,6 @@ If you have any improvements, feel free to make a pull request!
 
 [barry-stream]: https://barry.is/streaming
 [sprite-animator]: https://github.com/spannerisms/SpriteAnimator
+[alttpng]: https://github.com/spannerisms/ALttPNG
 [alttpng-wiki]: https://github.com/spannerisms/ALttPNG/wiki
 [pngto4bpp]: https://github.com/spannerisms/PNGto4BPP
