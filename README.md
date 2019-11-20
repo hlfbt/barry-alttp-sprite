@@ -12,7 +12,7 @@ Then you gotta jam that into the ROM somehow. I haven't been so far yet, so you'
 ### I think he needs more gottems and stink lines...
 
 You can check out the [ALttPNG Wiki][alttpng-wiki] and [SpriteAnimator][sprite-animator] to get a quickstart into making your own or editing existing sprites!  
-If you want to edit this sprite sheet in particular, you will have to use GIMP for your editing. Or maybe photoshop can properly handle `.xcf` files nowadays ¯\\_(ツ)_/¯  
+If you want to edit this sprite sheet in particular, you will have to use GIMP for your editing. Or maybe photoshop can properly handle `.xcf` files nowadays ¯\\\_(ツ)\_/¯  
 If you have never done any sprite work before, be aware of the limited color palette. I strongly suggest to read the [ALttPNG Wiki][alttpng-wiki] before diving in.  
 
 If you have any improvements, feel free to make a pull request!
