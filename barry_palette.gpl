@@ -2,19 +2,67 @@ GIMP Palette
 Name: Barry ALttP
 Columns: 16
 #
-  0   0   0	Untitled
-248 248 248	Untitled
-240 216  64	Untitled
-184 104  32	Untitled
-235 221 164	Untitled
- 35  22  42	Untitled
-151 139 108	Untitled
-192  24  32	Untitled
-232  96 176	Untitled
- 56 144 104	Untitled
- 64 216 112	Untitled
- 80 144  16	Untitled
-120 184  32	Untitled
-224 144  80	Untitled
-136  88  40	Untitled
-198 186 140	Untitled
+  0   0   0	Green 0 - Transparent
+248 248 248	Green 1 - Red (shared)
+240 216  64	Green 2 - Yellow (shared)
+184 104  32	Green 3 - Skin (shared)
+235 221 164	Green 4 - Lieutenant face (shared)
+ 35  22  42	Green 5 - Outline (shared)
+151 139 108	Green 6 - Orange (shared)
+192  24  32	Green 7 - Red (shared)
+ 96  88  73	Green 8 - Hair
+ 56 144 104	Green 9 - Tunic
+ 64 216 112	Green A - Light tunic
+ 80 144  16	Green B - Hat
+ 62  52  54	Green C - Light hat
+224 144  80	Green D - Hand color
+198 186 140	Green E - Sleeves
+192 128 240	Green F - Water
+184 184 168	Blue 0 - Gloves (replaces slot D)
+248 248 248	Blue 1 - White (shared)
+240 216  64	Blue 2 - Yellow (shared)
+184 104  32	Blue 3 - Skin (shared)
+235 221 164	Blue 4 - Lieutenant face (shared)
+ 35  22  42	Blue 5 - Outline (shared)
+151 139 108	Blue 6 - Orange (shared)
+192  24  32	Blue 7 - Red (shared)
+ 96  88  73	Blue 8 - Hair
+  0  96 208	Blue 9 - Tunic
+136 160 232	Blue A - Light tunic
+192 160  72	Blue B - Hat
+ 62  52  54	Blue C - Light hat
+224 144  80	Blue D - Hand color
+198 186 140	Blue E - Sleeves
+192 128 240	Blue F - Water
+176 216   0	Red 0 - Mitts (replaces slot D)
+248 248 248	Red 1 - White (shared)
+240 216  64	Red 2 - Yellow (shared)
+184 104  32	Red 3 - Skin (shared)
+235 221 164	Red 4 - Lieutenant face (shared)
+ 35  22  42	Red 5 - Outline (shared)
+151 139 108	Red 6 - Orange (shared)
+192  24  32	Red 7 - Red (shared)
+ 96  88  73	Red 8 - Hair
+184  16  32	Red 9 - Tunic
+240  88 136	Red A - Light tunic
+152 120 216	Red B - Hat
+ 62  52  54	Red C - Light hat
+224 144  80	Red D - Hand color
+198 186 140	Red E - Sleeves
+192 128 240	Red F - Water
+  0   0   0	Bunny 0 - Transparent (holds no data)
+248 248 248	Bunny 1 - White (shared)
+240 216  64	Bunny 2 - Yellow (shared)
+184 104  32	Bunny 3 - Skin (shared)
+235 221 164	Bunny 4 - Lieutenant face (shared)
+ 35  22  42	Bunny 5 - Outline (shared)
+151 139 108	Bunny 6 - Orange (shared)
+192  24  32	Bunny 7 - Red (shared)
+ 96  88  73	Bunny 8 - Hair
+ 56 144 104	Bunny 9 - Tunic
+ 64 216 112	Bunny A - Light tunic
+ 80 144  16	Bunny B - Hat
+ 62  52  54	Bunny C - Light hat
+240 152 168	Bunny D - Hand color
+198 186 140	Bunny E - Sleeves
+192 128 240	Bunny F - Water
